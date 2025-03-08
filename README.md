@@ -19,4 +19,4 @@ Zagraj w grę online: [Ping-Pong Game](https://drewniak1015.github.io/PingPong/)
 ## Instalacja:
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/twoja-nazwa-uzytkownika/ping-pong-game.git
+   git clone https://github.com/Drewniak1015/ping-pong-game.git
