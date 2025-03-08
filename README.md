@@ -13,6 +13,9 @@ To prosta gra w Ping-Ponga stworzona za pomocą JavaScript. Gra pozwala dwóm gr
 2. Staraj się odbić piłkę, by przejść na stronę przeciwnika i zdobyć punkt.
 3. Pierwszy gracz, który zdobędzie określoną liczbę punktów, wygrywa grę!
 
+## Link do gry:
+Zagraj w grę online: [Ping-Pong Game](https://drewniak1015.github.io/PingPong/)
+
 ## Instalacja:
 1. Sklonuj repozytorium:
    ```bash
